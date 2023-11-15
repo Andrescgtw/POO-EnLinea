@@ -1,0 +1,15 @@
+Carlos Guanoluisa
+
+  Comando 	   Función
+
+-git init	Crea un nuevo repositorio local de Git.
+-git clone	Clona un repositorio remoto en su máquina local.
+-git add	Agrega cambios al área de preparación.
+-git commit	Registra los cambios en el repositorio local.
+-git push	Envía los cambios a un repositorio remoto.
+-git pull	Obtiene los cambios de un repositorio remoto.
+-git branch	Lista las ramas locales.
+-git checkout	Cambia a una rama diferente.
+-git merge	Combina una rama con la rama actual.
+-git status	Muestra el estado actual del repositorio.
+-git log	Muestra el historial de confirmaciones.
